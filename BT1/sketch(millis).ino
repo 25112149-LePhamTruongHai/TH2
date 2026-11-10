@@ -1,5 +1,7 @@
-const int LED1 = 2;
-const int ADC_PIN = 34;
+#include <Arduino.h>
+
+#define LED1 2
+#define ADC_PIN 34
 
 unsigned long lanTruocLed = 0;
 unsigned long lanTruocAdc = 0;
