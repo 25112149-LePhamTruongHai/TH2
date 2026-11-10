@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #define LED1 2
 #define ADC_PIN 34
 
